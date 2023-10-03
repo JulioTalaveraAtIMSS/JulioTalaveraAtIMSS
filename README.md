@@ -1,0 +1,3 @@
+- 👋 Hola, soy @JulioTalaveraAtIMSS
+- 👀 Me dedico a la Ingeniería de Software e Inteligencia Artificial y Artes Marciales
+- 🌱 Curso la Maestría en Ingeniería de Software y trabajo en ampliar mis conocimientos en IA
